@@ -14,25 +14,15 @@ This project is built to demonstrate how a modern Laravel app can handle admin p
 - ✅ Dynamic product & category management
 - ✅ Custom widgets with Filament Panels
 - ✅ Responsive design for restaurant-style digital menu usage
-- ✅ Ready for deployment and GitHub integration
 
 ---
 
-## 🛠️ Installation
+## 📚 Credits
 
-> Make sure you have PHP 8.2+, Composer, MySQL, and Node.js installed.
+This project was built as part of a learning process by following a course from [BuildWithAngga (BWA)](https://buildwithangga.com).
 
-```bash
-git clone https://github.com/ghifrz/emenu-project.git
-cd emenu-project
-composer install
-cp .env.example .env
-php artisan key:generate
-php artisan migrate
-php artisan serve
+All credits to original instructors and resources used in the course.
 
-🙌 Credits
-BWA
 Laravel
 Filament PHP
 Midtrans
